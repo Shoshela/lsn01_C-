@@ -1,0 +1,15 @@
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\bin\Debug\net6.0\tsk04_MaxOf3Num.exe
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\bin\Debug\net6.0\tsk04_MaxOf3Num.deps.json
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\bin\Debug\net6.0\tsk04_MaxOf3Num.runtimeconfig.json
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\bin\Debug\net6.0\tsk04_MaxOf3Num.dll
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\bin\Debug\net6.0\tsk04_MaxOf3Num.pdb
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\obj\Debug\net6.0\tsk04_MaxOf3Num.csproj.AssemblyReference.cache
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\obj\Debug\net6.0\tsk04_MaxOf3Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\obj\Debug\net6.0\tsk04_MaxOf3Num.AssemblyInfoInputs.cache
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\obj\Debug\net6.0\tsk04_MaxOf3Num.AssemblyInfo.cs
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\obj\Debug\net6.0\tsk04_MaxOf3Num.csproj.CoreCompileInputs.cache
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\obj\Debug\net6.0\tsk04_MaxOf3Num.dll
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\obj\Debug\net6.0\refint\tsk04_MaxOf3Num.dll
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\obj\Debug\net6.0\tsk04_MaxOf3Num.pdb
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\obj\Debug\net6.0\tsk04_MaxOf3Num.genruntimeconfig.cache
+C:\Programs\VSC\lsn1\tsk04_MaxOf3Num\obj\Debug\net6.0\ref\tsk04_MaxOf3Num.dll
