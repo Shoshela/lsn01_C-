@@ -1,0 +1,15 @@
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\obj\Debug\net6.0\tsk06_EvenOrNot.csproj.AssemblyReference.cache
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\obj\Debug\net6.0\tsk06_EvenOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\obj\Debug\net6.0\tsk06_EvenOrNot.AssemblyInfoInputs.cache
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\obj\Debug\net6.0\tsk06_EvenOrNot.AssemblyInfo.cs
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\obj\Debug\net6.0\tsk06_EvenOrNot.csproj.CoreCompileInputs.cache
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\bin\Debug\net6.0\tsk06_EvenOrNot.exe
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\bin\Debug\net6.0\tsk06_EvenOrNot.deps.json
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\bin\Debug\net6.0\tsk06_EvenOrNot.runtimeconfig.json
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\bin\Debug\net6.0\tsk06_EvenOrNot.dll
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\bin\Debug\net6.0\tsk06_EvenOrNot.pdb
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\obj\Debug\net6.0\tsk06_EvenOrNot.dll
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\obj\Debug\net6.0\refint\tsk06_EvenOrNot.dll
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\obj\Debug\net6.0\tsk06_EvenOrNot.pdb
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\obj\Debug\net6.0\tsk06_EvenOrNot.genruntimeconfig.cache
+C:\Programs\VSC\lsn1\tsk06_EvenOrNot\obj\Debug\net6.0\ref\tsk06_EvenOrNot.dll
