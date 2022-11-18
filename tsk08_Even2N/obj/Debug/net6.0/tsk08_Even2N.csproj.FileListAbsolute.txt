@@ -1,0 +1,15 @@
+C:\Programs\VSC\lsn1\tsk08_Even2N\bin\Debug\net6.0\tsk08_Even2N.exe
+C:\Programs\VSC\lsn1\tsk08_Even2N\bin\Debug\net6.0\tsk08_Even2N.deps.json
+C:\Programs\VSC\lsn1\tsk08_Even2N\bin\Debug\net6.0\tsk08_Even2N.runtimeconfig.json
+C:\Programs\VSC\lsn1\tsk08_Even2N\bin\Debug\net6.0\tsk08_Even2N.dll
+C:\Programs\VSC\lsn1\tsk08_Even2N\bin\Debug\net6.0\tsk08_Even2N.pdb
+C:\Programs\VSC\lsn1\tsk08_Even2N\obj\Debug\net6.0\tsk08_Even2N.csproj.AssemblyReference.cache
+C:\Programs\VSC\lsn1\tsk08_Even2N\obj\Debug\net6.0\tsk08_Even2N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\VSC\lsn1\tsk08_Even2N\obj\Debug\net6.0\tsk08_Even2N.AssemblyInfoInputs.cache
+C:\Programs\VSC\lsn1\tsk08_Even2N\obj\Debug\net6.0\tsk08_Even2N.AssemblyInfo.cs
+C:\Programs\VSC\lsn1\tsk08_Even2N\obj\Debug\net6.0\tsk08_Even2N.csproj.CoreCompileInputs.cache
+C:\Programs\VSC\lsn1\tsk08_Even2N\obj\Debug\net6.0\tsk08_Even2N.dll
+C:\Programs\VSC\lsn1\tsk08_Even2N\obj\Debug\net6.0\refint\tsk08_Even2N.dll
+C:\Programs\VSC\lsn1\tsk08_Even2N\obj\Debug\net6.0\tsk08_Even2N.pdb
+C:\Programs\VSC\lsn1\tsk08_Even2N\obj\Debug\net6.0\tsk08_Even2N.genruntimeconfig.cache
+C:\Programs\VSC\lsn1\tsk08_Even2N\obj\Debug\net6.0\ref\tsk08_Even2N.dll
