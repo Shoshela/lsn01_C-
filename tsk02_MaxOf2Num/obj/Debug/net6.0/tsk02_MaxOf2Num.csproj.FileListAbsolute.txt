@@ -1,0 +1,15 @@
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\bin\Debug\net6.0\tsk02_MaxOf2Num.exe
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\bin\Debug\net6.0\tsk02_MaxOf2Num.deps.json
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\bin\Debug\net6.0\tsk02_MaxOf2Num.runtimeconfig.json
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\bin\Debug\net6.0\tsk02_MaxOf2Num.dll
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\bin\Debug\net6.0\tsk02_MaxOf2Num.pdb
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\obj\Debug\net6.0\tsk02_MaxOf2Num.csproj.AssemblyReference.cache
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\obj\Debug\net6.0\tsk02_MaxOf2Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\obj\Debug\net6.0\tsk02_MaxOf2Num.AssemblyInfoInputs.cache
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\obj\Debug\net6.0\tsk02_MaxOf2Num.AssemblyInfo.cs
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\obj\Debug\net6.0\tsk02_MaxOf2Num.csproj.CoreCompileInputs.cache
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\obj\Debug\net6.0\tsk02_MaxOf2Num.dll
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\obj\Debug\net6.0\refint\tsk02_MaxOf2Num.dll
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\obj\Debug\net6.0\tsk02_MaxOf2Num.pdb
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\obj\Debug\net6.0\tsk02_MaxOf2Num.genruntimeconfig.cache
+C:\Programs\VSC\lsn1\tsk02_MaxOf2Num\obj\Debug\net6.0\ref\tsk02_MaxOf2Num.dll

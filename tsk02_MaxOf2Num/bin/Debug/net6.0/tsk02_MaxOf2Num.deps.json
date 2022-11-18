@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tsk02_MaxOf2Num/1.0.0": {
+        "runtime": {
+          "tsk02_MaxOf2Num.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tsk02_MaxOf2Num/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
